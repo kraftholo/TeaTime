@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_69892e578e7379443fcb8f5c8e65bbc33ae257da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-rules-0.5_1cf64f6b6500d28249d9852db3675886cf9c3161.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_be7d30ebd5a98b95e10d01af0e8009209b557a59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_29f584265d2646d278ede38ca73022726586791c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_d5cf3284e7aa31190967fa9f0e5b85c5c44e7864.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-idling-resource-2.2.2_27e51e832bea06eb1cd29f5e9b4fc3093e2d0370.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_05a6a3006165761097fc7801979143ff5709bb84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_0d4e114575f9755c1799a4c8a16c09c934b6c8d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_18a414214fde445f5158d669c8c4551068bbbbd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_a79e2902386bb59ca0039af15e691abf488189a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_36a7891138902cb8905dce126065211fe8c0aa3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_4a107558be00faca5f5cc452bb7b1f38f7c5382f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_4a50830ebbf86841119ead7dc6cdcdb7bca0f159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_4a00448f5be6bf062458277c19c9ef080fc7aeb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_78a6e7ea8ce3a31c5927fc318ad89d31b56ab749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_fe4d0fd2d8af16a76a65c84f3e4fce10438d0824.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_520bb38bd00e74ceebef992adf252c1229e82681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_9b3c63aa2294efb80e7cd22df250bea7b3ffb9b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_8be501b7d06d79f38e90c021359b1ab6cbd0f8ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_94e68db004b5cb1401062ff7d2fb7eaa465d84d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_38b6b998c0b81fff7ab35fc7bbab4bd1f36827b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_112d6edf1914c11f9ca1a141ce0dc9e3326dca3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_4441391dc32e5133982e377907c4d0e0898ca2bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_8aa57f2245372bbd34c0540e199c5e4de36aee23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.8.0_a72c0319e189e3624fec7b4c40d495b150d9defa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.8.0_b39d1fbec7ba2842d8c788e3555e2c6d1d08ab3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2_460fc1069a3f5093516af38994abb065c818dbb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_34447f60f4221a16fe016f9e3c644e85ff6740ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_a790b766263aaba2743c073f93ef67dbae14221f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-exposed-instrumentation-api-publish-0.5_50cd22329536f748951ff1d4fae04d42b5e9db37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_6e8a20aa60cfe28ce1231a4903e1cc4ba7750a20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_ac61354dc218df203baea46c2214f3e58394349d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_cc62669266b0e4eaee08faf8ac03975f2c434483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_0db68bab2a6f722db5b4a7ff7f6b427786723fc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_3be98080995b4a136a353ec5c683a2f2d8678131.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_a575c78b05f7c4c3cf5bedc75c5ba5c6e044193c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_ab2f4ec747a981b5062199ed1469a9dd1ddb76df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_30e5860f27bfd2a5d3b2706b9c42574b7e212999.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.8.0_22e2b14516e4158df465f378e6e6c3aba51ebcd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.8.0_96a7e587f771addaee49319d87d825fa6423721c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_dda739fd3f661173b13abe5cbd60a7906cfdf9a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-core-2.2.2_de9e7fdce3dd0b9d7ffa476600204293d26eb165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_d87f9b5542e7e2008be04f6efce2c43c412470ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_2c7e994949517ffbe29663309b18ecdf72c1d2b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_ae65f74a7c32b078dbe1f1d1bb31a44c2b42e340.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_dd6f378c44082dc8f3f611d65121603223379b32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/shobhit/Documents/Udacity/AdvancedAndroid_TeaTime/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_7b5e697ce7172888ae3f6c8ed675deb6cca23986.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/home/shobhit/Documents/Udacity/TeaTime/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-runner-0.5_1881b3cea6e5e5375bbaa2c3169a6835321fa7c1.jar" />
+    </item>
+
+</items>
